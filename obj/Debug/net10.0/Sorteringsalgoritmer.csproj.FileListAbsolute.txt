@@ -1,0 +1,14 @@
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/bin/Debug/net10.0/Sorteringsalgoritmer
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/bin/Debug/net10.0/Sorteringsalgoritmer.deps.json
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/bin/Debug/net10.0/Sorteringsalgoritmer.runtimeconfig.json
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/bin/Debug/net10.0/Sorteringsalgoritmer.dll
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/bin/Debug/net10.0/Sorteringsalgoritmer.pdb
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/Debug/net10.0/Sorteringsalgoritmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/Debug/net10.0/Sorteringsalgoritmer.AssemblyInfoInputs.cache
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/Debug/net10.0/Sorteringsalgoritmer.AssemblyInfo.cs
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/Debug/net10.0/Sorteringsalgoritmer.csproj.CoreCompileInputs.cache
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/Debug/net10.0/Sorteringsalgoritmer.dll
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/Debug/net10.0/refint/Sorteringsalgoritmer.dll
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/Debug/net10.0/Sorteringsalgoritmer.pdb
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/Debug/net10.0/Sorteringsalgoritmer.genruntimeconfig.cache
+/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/Debug/net10.0/ref/Sorteringsalgoritmer.dll
