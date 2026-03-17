@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/Sorteringsalgoritmer.csproj",
+      "projectUniqueName": "/Users/illiamartinov/Code/GitHub/Sorteringsalgoritmer/Sorteringsalgoritmer.csproj",
       "projectName": "Sorteringsalgoritmer",
-      "projectPath": "/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/Sorteringsalgoritmer.csproj",
+      "projectPath": "/Users/illiamartinov/Code/GitHub/Sorteringsalgoritmer/Sorteringsalgoritmer.csproj",
       "packagesPath": "/Users/illiamartinov/.nuget/packages/",
-      "outputPath": "/Users/illiamartinov/Code/Programmering/C#/listor/Sorteringsalgoritmer/obj/",
+      "outputPath": "/Users/illiamartinov/Code/GitHub/Sorteringsalgoritmer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/illiamartinov/.nuget/NuGet/NuGet.Config"
